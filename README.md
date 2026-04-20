@@ -1,2 +1,2 @@
 # BlueMoon-Project
-Trying to hack the bluemoon system.
+I am learning Vulnerability Analysis. 
