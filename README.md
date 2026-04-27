@@ -1,2 +1,2 @@
 # VA Lab 
-I am learning Vulnerability Analysis. 
+I am learning Vulnerability Analysis Now.
